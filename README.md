@@ -1,17 +1,12 @@
 # Municipal-Action-Center ⚡️ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vigneshshettyin/Municipal-Action-Center/issues)
-[![Forks](https://img.shields.io/github/forks/vigneshshettyin/Online-Certificate-Generation-Verification.svg?logo=github)](https://github.com/vigneshshettyin/Municipal-Action-Center/network/members)
-[![Stargazers](https://img.shields.io/github/stars/vigneshshettyin/Municipal-Action-Center.svg?logo=github)](https://github.com/vigneshshettyin/Municipal-Action-Center/stargazers)
-[![Issues](https://img.shields.io/github/issues/vigneshshettyin/Municipal-Action-Center.svg?logo=github)](https://github.com/vigneshshettyin/Municipal-Action-Center/issues)
-[![MIT License](https://img.shields.io/github/license/vigneshshettyin/Municipal-Action-Center.svg?style=flat-square)](https://github.com/vigneshshettyin/Municipal-Action-Center/blob/master/LICENSE)
 
 Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **Contribute** and make this much better for other developer have a look at [Issues](https://github.com/vigneshshettyin/Online-Certificate-Generation-Verification/issues).
+But if you want to **Contribute** and make this much better for other developer have a look at [Issues](https://github.com/simonnepinto/Online-Certificate-Generation-Verification/issues).
 
 
-If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [Pull Request](https://github.com/vigneshshettyin/Municipal-Action-Center/pulls).
+If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [Pull Request](https://github.com/simonnepinto/Municipal-Action-Center/pulls).
 
 
 ## Getting Started 🚀
@@ -20,7 +15,7 @@ If you created something awesome and want to contribute then feel free to open P
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/vigneshshettyin/Municipal-Action-Center.git
+$ git clone https://github.com/simonnepinto/Municipal-Action-Center.git
 
 # Go into the repository
 $ cd Municipal-Action-Center
@@ -66,7 +61,7 @@ This project is licensed under the GPL-3.0 License. See the [LICENSE](./LICENSE)
 
 
 ## For the Future 
-If you can help us with these. Please don't hesitate to open a [Pull Request](https://github.com/vigneshshettyin/Municipal-Action-Center/pulls).
+If you can help us with these. Please don't hesitate to open a [Pull Request](https://github.com/simonnepinto/Municipal-Action-Center/pulls).
 
 ## Cool Developers🚧
 
